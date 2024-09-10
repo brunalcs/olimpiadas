@@ -1,4 +1,4 @@
-## Buscador de Atletas Olímpicos
+## Buscador de Atletas Olímpicos - Imersão Dev com Google Gemini
 
 **Uma ferramenta simples para descobrir mais sobre seus atletas favoritos.**
 
